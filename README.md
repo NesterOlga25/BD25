@@ -2,6 +2,7 @@ Stepik
 https://stepik.org/course/63054/promo?search=7561402081
 
 Сборник платформ для практики SQL-запросов
+
 https://sqltutor.ru/taskslist/
 
 https://sqltest.online/ru/
