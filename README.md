@@ -23,5 +23,5 @@ https://www.mockaroo.com/
 Учебное пособие, которое расскажет как работают уязвимости
 https://hacksplaining.com/lessons
 
-Платформа для тернировки на лекции
+Платформа для тренировок на лекции
 https://sqltest.online/ru/
