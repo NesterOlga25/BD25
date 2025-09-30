@@ -25,3 +25,6 @@ https://hacksplaining.com/lessons
 
 Платформа для тренировок на лекции
 https://sqltest.online/ru/
+
+Полезный курс про ИИ в разработке 
+https://cursor.com/ru/learn
